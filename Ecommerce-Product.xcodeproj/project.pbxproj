@@ -8,22 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		812C64F21D38A871002DC608 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812C64F11D38A871002DC608 /* AppDelegate.swift */; };
-		812C64F41D38A871002DC608 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812C64F31D38A871002DC608 /* ViewController.swift */; };
 		812C64F71D38A871002DC608 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 812C64F51D38A871002DC608 /* Main.storyboard */; };
 		812C64FA1D38A871002DC608 /* Ecommerce_Product.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 812C64F81D38A871002DC608 /* Ecommerce_Product.xcdatamodeld */; };
 		812C64FC1D38A871002DC608 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812C64FB1D38A871002DC608 /* Assets.xcassets */; };
 		812C64FF1D38A871002DC608 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 812C64FD1D38A871002DC608 /* LaunchScreen.storyboard */; };
+		817D3DC81D408BB9007F1D13 /* KASlideShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D3DC71D408BB9007F1D13 /* KASlideShow.m */; };
+		817D3DD81D409023007F1D13 /* asics1S.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DD71D409023007F1D13 /* asics1S.png */; };
+		817D3DDB1D40902A007F1D13 /* asics2S.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DD91D40902A007F1D13 /* asics2S.png */; };
+		817D3DDC1D40902A007F1D13 /* asics3S.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DDA1D40902A007F1D13 /* asics3S.png */; };
+		817D3DDF1D40905D007F1D13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817D3DDE1D40905D007F1D13 /* ViewController.swift */; };
+		817D3DE31D409383007F1D13 /* asics1.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DE01D409383007F1D13 /* asics1.png */; };
+		817D3DE41D409383007F1D13 /* asics2.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DE11D409383007F1D13 /* asics2.png */; };
+		817D3DE51D409383007F1D13 /* asics3.png in Resources */ = {isa = PBXBuildFile; fileRef = 817D3DE21D409383007F1D13 /* asics3.png */; };
+		817D3DF61D421F03007F1D13 /* HMSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D3DF51D421F03007F1D13 /* HMSegmentedControl.m */; };
+		817D3DF91D45D2E4007F1D13 /* UIView+RVBorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D3DF81D45D2E4007F1D13 /* UIView+RVBorder.m */; };
+		817D3DFF1D489B3C007F1D13 /* YRCoverFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D3DFE1D489B3C007F1D13 /* YRCoverFlowLayout.m */; };
+		817D3E031D49C99C007F1D13 /* SSRollingButtonScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 817D3E021D49C99C007F1D13 /* SSRollingButtonScrollView.m */; };
+		817D3E061D49CE50007F1D13 /* CustonSecondCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817D3E051D49CE50007F1D13 /* CustonSecondCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		812C64EE1D38A871002DC608 /* Ecommerce-Product.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ecommerce-Product.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		812C64F11D38A871002DC608 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		812C64F31D38A871002DC608 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		812C64F61D38A871002DC608 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		812C64F91D38A871002DC608 /* Ecommerce_Product.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Ecommerce_Product.xcdatamodel; sourceTree = "<group>"; };
 		812C64FB1D38A871002DC608 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		812C64FE1D38A871002DC608 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		812C65001D38A871002DC608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		812C651E1D3CE53E002DC608 /* Ecommerce-Product-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ecommerce-Product-Bridging-Header.h"; sourceTree = "<group>"; };
+		817D3DC61D408BB9007F1D13 /* KASlideShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KASlideShow.h; path = ThirdParty/SlideShow/KASlideShow.h; sourceTree = "<group>"; };
+		817D3DC71D408BB9007F1D13 /* KASlideShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KASlideShow.m; path = ThirdParty/SlideShow/KASlideShow.m; sourceTree = "<group>"; };
+		817D3DD71D409023007F1D13 /* asics1S.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics1S.png; path = "Image Resource/asics1S.png"; sourceTree = "<group>"; };
+		817D3DD91D40902A007F1D13 /* asics2S.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics2S.png; path = "Image Resource/asics2S.png"; sourceTree = "<group>"; };
+		817D3DDA1D40902A007F1D13 /* asics3S.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics3S.png; path = "Image Resource/asics3S.png"; sourceTree = "<group>"; };
+		817D3DDE1D40905D007F1D13 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		817D3DE01D409383007F1D13 /* asics1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics1.png; path = "Image Resource/asics1.png"; sourceTree = "<group>"; };
+		817D3DE11D409383007F1D13 /* asics2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics2.png; path = "Image Resource/asics2.png"; sourceTree = "<group>"; };
+		817D3DE21D409383007F1D13 /* asics3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = asics3.png; path = "Image Resource/asics3.png"; sourceTree = "<group>"; };
+		817D3DF41D421F03007F1D13 /* HMSegmentedControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HMSegmentedControl.h; path = ThirdParty/SegmentedControl/HMSegmentedControl.h; sourceTree = "<group>"; };
+		817D3DF51D421F03007F1D13 /* HMSegmentedControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HMSegmentedControl.m; path = ThirdParty/SegmentedControl/HMSegmentedControl.m; sourceTree = "<group>"; };
+		817D3DF71D45D2E4007F1D13 /* UIView+RVBorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+RVBorder.h"; path = "ThirdParty/IBOutlet/UIView+RVBorder.h"; sourceTree = "<group>"; };
+		817D3DF81D45D2E4007F1D13 /* UIView+RVBorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+RVBorder.m"; path = "ThirdParty/IBOutlet/UIView+RVBorder.m"; sourceTree = "<group>"; };
+		817D3DFD1D489B3C007F1D13 /* YRCoverFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YRCoverFlowLayout.h; path = ThirdParty/YRCoverFlowLayout/YRCoverFlowLayout.h; sourceTree = "<group>"; };
+		817D3DFE1D489B3C007F1D13 /* YRCoverFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YRCoverFlowLayout.m; path = ThirdParty/YRCoverFlowLayout/YRCoverFlowLayout.m; sourceTree = "<group>"; };
+		817D3E011D49C99C007F1D13 /* SSRollingButtonScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SSRollingButtonScrollView.h; path = ThirdParty/ButtonScroll/SSRollingButtonScrollView.h; sourceTree = "<group>"; };
+		817D3E021D49C99C007F1D13 /* SSRollingButtonScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SSRollingButtonScrollView.m; path = ThirdParty/ButtonScroll/SSRollingButtonScrollView.m; sourceTree = "<group>"; };
+		817D3E051D49CE50007F1D13 /* CustonSecondCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustonSecondCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +86,89 @@
 		812C64F01D38A871002DC608 /* Ecommerce-Product */ = {
 			isa = PBXGroup;
 			children = (
+				812C651E1D3CE53E002DC608 /* Ecommerce-Product-Bridging-Header.h */,
 				812C64F11D38A871002DC608 /* AppDelegate.swift */,
-				812C64F31D38A871002DC608 /* ViewController.swift */,
+				817D3DDE1D40905D007F1D13 /* ViewController.swift */,
+				817D3E051D49CE50007F1D13 /* CustonSecondCell.swift */,
 				812C64F51D38A871002DC608 /* Main.storyboard */,
 				812C64FB1D38A871002DC608 /* Assets.xcassets */,
+				817D3DC91D408C03007F1D13 /* ThirdParty */,
+				817D3DDD1D40902F007F1D13 /* ImageResource */,
 				812C64FD1D38A871002DC608 /* LaunchScreen.storyboard */,
 				812C65001D38A871002DC608 /* Info.plist */,
 				812C64F81D38A871002DC608 /* Ecommerce_Product.xcdatamodeld */,
 			);
 			path = "Ecommerce-Product";
+			sourceTree = "<group>";
+		};
+		817D3DC91D408C03007F1D13 /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				817D3E041D49C99F007F1D13 /* ButtonScroll */,
+				817D3E001D489B44007F1D13 /* collectionview */,
+				817D3DFA1D45D2E8007F1D13 /* IBOutlet */,
+				817D3DCE1D408C1C007F1D13 /* Segment */,
+				817D3DCA1D408C0D007F1D13 /* SlideShow */,
+			);
+			name = ThirdParty;
+			sourceTree = "<group>";
+		};
+		817D3DCA1D408C0D007F1D13 /* SlideShow */ = {
+			isa = PBXGroup;
+			children = (
+				817D3DC61D408BB9007F1D13 /* KASlideShow.h */,
+				817D3DC71D408BB9007F1D13 /* KASlideShow.m */,
+			);
+			name = SlideShow;
+			sourceTree = "<group>";
+		};
+		817D3DCE1D408C1C007F1D13 /* Segment */ = {
+			isa = PBXGroup;
+			children = (
+				817D3DF41D421F03007F1D13 /* HMSegmentedControl.h */,
+				817D3DF51D421F03007F1D13 /* HMSegmentedControl.m */,
+			);
+			name = Segment;
+			sourceTree = "<group>";
+		};
+		817D3DDD1D40902F007F1D13 /* ImageResource */ = {
+			isa = PBXGroup;
+			children = (
+				817D3DE01D409383007F1D13 /* asics1.png */,
+				817D3DE11D409383007F1D13 /* asics2.png */,
+				817D3DE21D409383007F1D13 /* asics3.png */,
+				817D3DD71D409023007F1D13 /* asics1S.png */,
+				817D3DD91D40902A007F1D13 /* asics2S.png */,
+				817D3DDA1D40902A007F1D13 /* asics3S.png */,
+			);
+			name = ImageResource;
+			sourceTree = "<group>";
+		};
+		817D3DFA1D45D2E8007F1D13 /* IBOutlet */ = {
+			isa = PBXGroup;
+			children = (
+				817D3DF71D45D2E4007F1D13 /* UIView+RVBorder.h */,
+				817D3DF81D45D2E4007F1D13 /* UIView+RVBorder.m */,
+			);
+			name = IBOutlet;
+			sourceTree = "<group>";
+		};
+		817D3E001D489B44007F1D13 /* collectionview */ = {
+			isa = PBXGroup;
+			children = (
+				817D3DFD1D489B3C007F1D13 /* YRCoverFlowLayout.h */,
+				817D3DFE1D489B3C007F1D13 /* YRCoverFlowLayout.m */,
+			);
+			name = collectionview;
+			sourceTree = "<group>";
+		};
+		817D3E041D49C99F007F1D13 /* ButtonScroll */ = {
+			isa = PBXGroup;
+			children = (
+				817D3E011D49C99C007F1D13 /* SSRollingButtonScrollView.h */,
+				817D3E021D49C99C007F1D13 /* SSRollingButtonScrollView.m */,
+			);
+			name = ButtonScroll;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +229,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				817D3DDB1D40902A007F1D13 /* asics2S.png in Resources */,
+				817D3DE51D409383007F1D13 /* asics3.png in Resources */,
+				817D3DDC1D40902A007F1D13 /* asics3S.png in Resources */,
+				817D3DE41D409383007F1D13 /* asics2.png in Resources */,
 				812C64FF1D38A871002DC608 /* LaunchScreen.storyboard in Resources */,
 				812C64FC1D38A871002DC608 /* Assets.xcassets in Resources */,
+				817D3DD81D409023007F1D13 /* asics1S.png in Resources */,
 				812C64F71D38A871002DC608 /* Main.storyboard in Resources */,
+				817D3DE31D409383007F1D13 /* asics1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +248,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				817D3DDF1D40905D007F1D13 /* ViewController.swift in Sources */,
+				817D3E031D49C99C007F1D13 /* SSRollingButtonScrollView.m in Sources */,
 				812C64FA1D38A871002DC608 /* Ecommerce_Product.xcdatamodeld in Sources */,
-				812C64F41D38A871002DC608 /* ViewController.swift in Sources */,
+				817D3DC81D408BB9007F1D13 /* KASlideShow.m in Sources */,
 				812C64F21D38A871002DC608 /* AppDelegate.swift in Sources */,
+				817D3DF91D45D2E4007F1D13 /* UIView+RVBorder.m in Sources */,
+				817D3DFF1D489B3C007F1D13 /* YRCoverFlowLayout.m in Sources */,
+				817D3DF61D421F03007F1D13 /* HMSegmentedControl.m in Sources */,
+				817D3E061D49CE50007F1D13 /* CustonSecondCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,10 +371,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Ecommerce-Product/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.qwinixtech.Ecommerce-Product";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Ecommerce-Product/Ecommerce-Product-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -266,10 +385,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Ecommerce-Product/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.qwinixtech.Ecommerce-Product";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Ecommerce-Product/Ecommerce-Product-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -292,6 +413,7 @@
 				812C65051D38A871002DC608 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
