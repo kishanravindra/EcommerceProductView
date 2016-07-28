@@ -9,7 +9,7 @@
 <p>All the images are taken from Google</p>
 <h5>Resources</h5>
 <ol>
-1.<a href="https://github.com/ninefifteen/SSRollingButtonScrollView">Button Scrolling - from SSRollingButtonScrollView</a>
-2.<a href="https://github.com/HeshamMegid/HMSegmentedControl">Custom UISegmentController - from HMSegmentedControl</a> 3.<a href="https://github.com/kirualex/KASlideShow">Custom ImageSlideShow - from KASlideShow</a>
+1.<a href="https://github.com/ninefifteen/SSRollingButtonScrollView">Button Scrolling - from SSRollingButtonScrollView</a></br>
+2.<a href="https://github.com/HeshamMegid/HMSegmentedControl">Custom UISegmentController - from HMSegmentedControl</a> </br>3.<a href="https://github.com/kirualex/KASlideShow">Custom ImageSlideShow - from KASlideShow</a>
 </ol>
 </p>
