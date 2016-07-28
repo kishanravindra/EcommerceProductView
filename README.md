@@ -6,7 +6,10 @@
 </p>
 
 <p>
+<p>All the images are taken from Google</p>
+<h5>Resources</h5>
 <ol>
-<li>1. Button Scrolling - from SSRollingButtonScrollView <href src= "https://github.com/ninefifteen/SSRollingButtonScrollView"></li>
-
+1.<a href="https://github.com/ninefifteen/SSRollingButtonScrollView">Button Scrolling - from SSRollingButtonScrollView</a>
+2.<a href="https://github.com/HeshamMegid/HMSegmentedControl">Custom UISegmentController - from HMSegmentedControl</a> 3.<a href="https://github.com/kirualex/KASlideShow">Custom ImageSlideShow - from KASlideShow</a>
 </ol>
+</p>
