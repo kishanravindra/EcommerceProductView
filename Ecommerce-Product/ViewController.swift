@@ -10,21 +10,19 @@ import UIKit
 
 class ViewController: UIViewController,KASlideShowDelegate,SSRollingButtonScrollViewDelegate {
 
+    //IBOutlets
     @IBOutlet var productDetailsCollectionView: UICollectionView!
     @IBOutlet var productSlideView: KASlideShow!
     @IBOutlet var segmentControlView: UIView!
-    let segmentController = HMSegmentedControl()
     @IBOutlet var coverFlowLayout: YRCoverFlowLayout!
-    
     @IBOutlet weak var sizeScrollButton: SSRollingButtonScrollView!
     
-    
+    let segmentController = HMSegmentedControl()
     let sizeAndQuantityDataSource = ["1","2","3","4","5","6","7","8","9","10"]
    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        productSlideView.backgroundColor = UIColor.clearColor()
+        // Do any additional setup after loading the view, typically from a nib
     }
     
     //MARK:- Setting UI data for size and quantity
